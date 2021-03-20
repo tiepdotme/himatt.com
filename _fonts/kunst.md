@@ -31,13 +31,13 @@ font_weights:
   - 144 Heavy
 
 vendors:
-  - title: "Fontspring"
-    licence: Webfont & Desktop
-    url: "//www.fontspring.com/adsense/matt-grey-design/kunst/kunst-collection"
+  - title: "Buy on Facebook"
+    licence: Desktop only
+    url: "https://m.me/Pxtiep"
 
-  - title: "Myfonts"
+  - title: "Mua trên Zalo"
     licence: Webfont & Desktop
-    url: "//www.myfonts.com/adsense/matt-grey/kunst/"
+    url: "https://zalo.me/0337036819"
 
 initial_release: 2017
 designed_from: 2014
