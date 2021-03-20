@@ -2,11 +2,11 @@
 date: 2017-02-20
 published: true
 order_number: 3
-title: "Kunst"
+title: "Gaac.me"
 description: "Purely geometric core"
 categories: on sale, geometric
-thumbnail: "/adsense/kunst/flist-kunst.svg"
-banner: "/adsense/kunst/overview.png"
+thumbnail: "/adsense/gaacme/gaac.svg"
+banner: "/adsense/gaacme/gaac.svg"
 licensetype: Commercial
 
 available_licenses:
