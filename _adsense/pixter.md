@@ -5,8 +5,8 @@ order_number: 2
 title: "Pixter"
 description: "A versatile pixel font"
 categories: on sale, pixel, geometric
-thumbnail: "/fonts/pixter/flist-pixter.svg"
-banner: "/fonts/pixter/overview.png"
+thumbnail: "/adsense/pixter/flist-pixter.svg"
+banner: "/adsense/pixter/overview.png"
 licensetype: Commercial
 
 available_licenses:
@@ -32,7 +32,7 @@ font_weights:
 vendors:
   - title: "Myfonts"
     licence: Webfont & Desktop
-    url: "https://www.myfonts.com/fonts/matt-grey/pixter/"
+    url: "https://www.myfonts.com/adsense/matt-grey/pixter/"
 
 
 initial_release: 2020

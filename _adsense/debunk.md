@@ -5,8 +5,8 @@ order_number: 6
 title: "Debunk"
 description: "Distressed typewriter typeface"
 categories: on sale, grungy, typewriter, distressed
-thumbnail: "/fonts/debunk/flist-debunk.svg"
-banner: "/fonts/debunk/overview.png"
+thumbnail: "/adsense/debunk/flist-debunk.svg"
+banner: "/adsense/debunk/overview.png"
 licensetype: Commercial
 
 features:
@@ -27,11 +27,11 @@ font_weights:
 vendors:
   - title: "Fontspring"
     licence: Webfont & Desktop
-    url: "//www.fontspring.com/fonts/matt-grey-design/debunk"
+    url: "//www.fontspring.com/adsense/matt-grey-design/debunk"
 
   - title: "Myfonts"
     licence: Webfont & Desktop
-    url: "//www.myfonts.com/fonts/matt-grey/debunk/"
+    url: "//www.myfonts.com/adsense/matt-grey/debunk/"
 
 initial_release: 2012
 designed_from: 2012

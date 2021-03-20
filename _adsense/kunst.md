@@ -1,12 +1,12 @@
 ---
 date: 2017-02-20
 published: true
-order_number: 5
-title: "Kunst Imprint"
-description: "Purely geometric core with inky terminals"
+order_number: 3
+title: "Kunst"
+description: "Purely geometric core"
 categories: on sale, geometric
-thumbnail: "/fonts/kunst-imprint/flist-kunst-imprint.svg"
-banner: "/fonts/kunst/overview.png"
+thumbnail: "/adsense/kunst/flist-kunst.svg"
+banner: "/adsense/kunst/overview.png"
 licensetype: Commercial
 
 available_licenses:
@@ -22,6 +22,7 @@ supported_languages:
   - Cyrillic
 
 font_weights:
+  - 12 Hairline
   - 24 Thin
   - 48 Light
   - 72 Regular
@@ -32,12 +33,11 @@ font_weights:
 vendors:
   - title: "Fontspring"
     licence: Webfont & Desktop
-    url: "//www.fontspring.com/fonts/matt-grey-design/kunst/kunst-imprint"
+    url: "//www.fontspring.com/adsense/matt-grey-design/kunst/kunst-collection"
 
   - title: "Myfonts"
     licence: Webfont & Desktop
-    url: "//www.myfonts.com/fonts/matt-grey/kunst-imprint"
-
+    url: "//www.myfonts.com/adsense/matt-grey/kunst/"
 
 initial_release: 2017
 designed_from: 2014
@@ -54,8 +54,8 @@ The idea for Kunst was seeded by a visit to Amsterdam back in 2014, where I met
 up with [David Quay](//davidquaydesign.com/), a type designer and
 co-founder of [The Foundry](//www.fontshop.com/foundries/the-foundry).
 David was responsible for digitising legendary designer
-[Wim Crouwel](https://www.youtube.com/watch?v=RT9fCoDfir0)'s classic typeface
-[Gridnik](https://en.wikipedia.org/wiki/Gridnik), of which Kunst was partially
+[Wim Crouwel](//www.youtube.com/watch?v=RT9fCoDfir0)'s classic typeface
+[Gridnik](//en.wikipedia.org/wiki/Gridnik), of which Kunst was partially
 inspired by.
 
 Influenced by queues from a European brutalist design aesthetic, Kunst strives

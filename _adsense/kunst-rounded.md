@@ -1,11 +1,11 @@
 ---
 date: 2017-02-20
 published: true
-order_number: 3
-title: "Kunst"
-description: "Purely geometric core"
+order_number: 4
+title: "Kunst Rounded"
+description: "Purely geometric core with rounded terminals"
 categories: on sale, geometric
-thumbnail: "/adsense/kunst/flist-kunst.svg"
+thumbnail: "/adsense/kunst-rounded/flist-kunst-rounded.svg"
 banner: "/adsense/kunst/overview.png"
 licensetype: Commercial
 
@@ -22,7 +22,6 @@ supported_languages:
   - Cyrillic
 
 font_weights:
-  - 12 Hairline
   - 24 Thin
   - 48 Light
   - 72 Regular
@@ -33,11 +32,11 @@ font_weights:
 vendors:
   - title: "Fontspring"
     licence: Webfont & Desktop
-    url: "//www.fontspring.com/adsense/matt-grey-design/kunst/kunst-collection"
+    url: "//www.fontspring.com/adsense/matt-grey-design/kunst/kunst-rounded"
 
   - title: "Myfonts"
     licence: Webfont & Desktop
-    url: "//www.myfonts.com/adsense/matt-grey/kunst/"
+    url: "//www.myfonts.com/adsense/matt-grey/kunst-rounded"
 
 initial_release: 2017
 designed_from: 2014

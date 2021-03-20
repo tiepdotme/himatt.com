@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Fonts"
-permalink: /fonts/
+permalink: /adsense/
 redirect_from: /projects/typefaces
 priority: 0.9
 sitemap: true
@@ -36,7 +36,7 @@ sitemap: true
 
 {% assign fontSlug = font.title | slugify %}
 
-{% capture previewImagePath %}{{ site.image_serve_path | append: '/fonts/'}}{{ fontSlug }}{% endcapture %}
+{% capture previewImagePath %}{{ site.image_serve_path | append: '/adsense/'}}{{ fontSlug }}{% endcapture %}
 
 {% capture firstVendorURL %}
     {% for vendor in font.vendors limit:1 %}{{ vendor.url }}{% endfor%}

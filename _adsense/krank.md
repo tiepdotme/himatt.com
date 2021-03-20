@@ -1,16 +1,16 @@
 ---
 date: 2012-08-25
 published: true
-order_number: 8
-title: "Beehive"
-description: "Art deco typeface"
-categories: on sale, art deco
-thumbnail: "/fonts/beehive/flist-beehive.svg"
-banner: "/fonts/beehive/overview.png"
+order_number: 7
+title: "Krank"
+description: "Block typeface"
+categories: on sale, blocky, geometric
+thumbnail: "/adsense/krank/flist-krank.svg"
+banner: "/adsense/krank/overview.png"
 licensetype: Commercial
 
 features:
-  - 3 available styles
+  - 7 available styles
 
 available_licenses:
   - Web
@@ -20,17 +20,21 @@ supported_languages:
 
 font_weights:
   - "Regular"
-  - "Caps"
-  - "Condensed"
+  - "Kursiv"
+  - "Vibe"
+  - "Chisel"
+  - "Chisel Duo"
+  - "Outline"
+  - "Outline Rounded"
 
 vendors:
   - title: "Fontspring"
     licence: Webfont & Desktop
-    url: "//www.fontspring.com/fonts/matt-grey-design/beehive"
+    url: "//www.fontspring.com/adsense/matt-grey-design/krank"
 
   - title: "Myfonts"
     licence: Webfont & Desktop
-    url: "//www.myfonts.com/fonts/matt-grey/beehive/"
+    url: "//www.myfonts.com/adsense/matt-grey/krank/"
 
 initial_release: 2012
 designed_from: 2012

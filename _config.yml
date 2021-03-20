@@ -71,7 +71,7 @@ navigation:
   - title: Căn hộ
     url: /
   - title: Fonts
-    url: /fonts
+    url: /adsense
   - title: Giới thiệu
     url: /about
   - title: Nhắn tin
@@ -86,7 +86,7 @@ collections:
     permalink: /projects/:path/
   fonts:
     output: true
-    permalink: /fonts/:path/
+    permalink: /adsense/:path/
 
 defaults:
   - scope:
