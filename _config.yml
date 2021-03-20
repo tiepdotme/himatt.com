@@ -96,6 +96,6 @@ defaults:
       layout: "project"
   - scope:
       path: ""
-      type: "fonts"
+      type: "adsense"
     values:
-      layout: "font"
+      layout: "adsense"
