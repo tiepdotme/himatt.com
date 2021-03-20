@@ -4,11 +4,11 @@ published: true
 title: "Căn hộ Happy One Central"
 description: "Bán căn hộ tại chung cư cao cấp Happy One Central"
 categories: căn hộ, Bán, Happy One
-disciplines: Bán căn hộ, Trần Thùy Chinh, 096 785 2242
+disciplines: Bán căn hộ, Trần Thùy Chinh, 096 785 2242, Căn 1 Phòng ngủ, Căn 2 Phòng ngủ, Căn 3 Phòng ngủ
 media: Website
 ownership:
 client: Happy One Central
-time_period: 2017
+time_period: 2021
 thumbnail: "/projects/ski-solutions/plist-ski-solutions.jpg"
 
 website:
