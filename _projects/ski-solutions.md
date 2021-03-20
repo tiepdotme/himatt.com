@@ -12,8 +12,8 @@ time_period: 2017
 thumbnail: "/projects/ski-solutions/plist-ski-solutions.jpg"
 
 website:
-  button_text: Visit the site
-  url: https://www.skisolutions.com
+  button_text: Bấm để gọi 096 785 2242
+  url: tel:0967852242
 
 intro: |
   The absence of full mobile device support was negatively impacting on
