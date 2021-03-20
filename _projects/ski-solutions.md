@@ -1,10 +1,10 @@
 ---
 date: 2017-6-1
 published: true
-title: "Ski Solutions"
-description: "Responsive experience redesign for a tailor-made ski tour operator"
-categories: website, ux, mobile
-disciplines: UX, Responsive web design, HTML/CSS
+title: "Căn hộ Happy One Central"
+description: "Bán căn hộ tại chung cư cao cấp Happy One Central"
+categories: căn hộ, Bán, Happy One
+disciplines: Bán căn hộ, Trần Thùy Chinh, 096 785 2242
 media: Website
 ownership:
 client: Ski Solutions
