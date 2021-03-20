@@ -1,5 +1,5 @@
 ---
-date: 2017-02-21
+date: 2021-03-20
 published: true
 order_number: 1
 title: "UK Adsense Verified PIN Chinh.UK"
@@ -193,15 +193,10 @@ releases:
       Please note that a few unused utility icons from 3.0 have been removed.
 ---
 
-Back in mid-2011 I was working on a website that required some links to social
-network pages, and struggled to find a set of flat, uniform vector website icons
-that I could use readily for any application. I decided that it would be useful
-to collect them into a portable and well supported format—a font.
+Domain name Chinh.uk
 
-I released a trial version a month later which received over 150,000 downloads
-in less than half a year. I then went on to create a refined commercial version
- which has proven to be popular; it has been used by over 200 companies, studios
- and designers worldwide on both the web and in print, including the largest
- digital font vendor [Myfonts](www.myfonts.com). The latest version of Social
- Networking Icons (4.0), now includes 158 individual icons in 6 different
- styles.
+Already
+- Passed Limit ads
+- Approved website
+- PIN Verified
+- GBP 7 on earning
