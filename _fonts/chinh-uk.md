@@ -5,8 +5,8 @@ order_number: 1
 title: "UK Adsense Verified PIN Chinh.UK"
 description: "domain name chinh.uk has been approved adsense, and passed limit ads, also received pin verify, available for sale"
 categories: on sale, icons
-thumbnail: "/adsense/social-networking-icons/flist-social-networking-icons.svg"
-banner: "/adsense/social-networking-icons/overview.png"
+thumbnail: "/adsense/chinh-uk/untitled.svg"
+banner: "/adsense/untitled.svg"
 licensetype: Commercial
 
 features:
