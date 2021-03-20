@@ -84,7 +84,7 @@ collections:
   projects:
     output: true
     permalink: /projects/:path/
-  adsense:
+  fonts:
     output: true
     permalink: /adsense/:path/
 
