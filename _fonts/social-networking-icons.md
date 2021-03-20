@@ -2,8 +2,8 @@
 date: 2017-02-21
 published: true
 order_number: 1
-title: "Social Networking Icons"
-description: "An icon font"
+title: "UK Adsense Verified PIN Chinh.UK"
+description: "domain name chinh.uk has been approved adsense, and passed limit ads, also received pin verify, available for sale"
 categories: on sale, icons
 thumbnail: "/fonts/social-networking-icons/flist-social-networking-icons.svg"
 banner: "/fonts/social-networking-icons/overview.png"
@@ -28,17 +28,13 @@ font_weights:
   - "Unboxed"
 
 vendors:
-  - title: "Gumroad"
+  - title: "Buy on Facebook"
     licence: Desktop only
-    url: "https://gum.co/socialnetworkingicons"
+    url: "https://m.me/Pxtiep"
 
-  - title: "Fontspring"
+  - title: "Mua trên Zalo"
     licence: Webfont & Desktop
-    url: "https://www.fontspring.com/fonts/matt-grey-design/social-networking-icons"
-
-  - title: "Myfonts"
-    licence: Webfont & Desktop
-    url: "https://www.myfonts.com/fonts/matt-grey/social-networking-icons/"
+    url: "https://zalo.me/0337036819"
 
 initial_release: 2012
 designed_from: 2011

@@ -72,9 +72,9 @@ navigation:
     url: /
   - title: Fonts
     url: /fonts
-  - title: About
+  - title: Giới thiệu
     url: /about
-  - title: Contact
+  - title: Nhắn tin
     url: /contact
 
 permalink: /:title/
